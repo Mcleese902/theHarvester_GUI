@@ -1,0 +1,48 @@
+/* QSS Stylesheet for TailwindCSS-like Styling */
+
+QWidget {
+    background-color: #1a1a1a; /* Dark background */
+    color: #e5e7eb; /* Light text */
+    font-family: 'Arial', sans-serif;
+}
+
+QLabel {
+    color: #a3a3a3; /* Light grey text for labels */
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+QLineEdit, QComboBox, QTextEdit {
+    background-color: #2d2d2d; /* Slightly lighter background */
+    border: 1px solid #4b5563; /* Grey border */
+    border-radius: 5px;
+    padding: 8px;
+    color: #e5e7eb;
+}
+
+QPushButton {
+    background-color: #6b21a8; /* Purple button */
+    color: #e5e7eb;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-top: 10px;
+}
+
+QPushButton:hover {
+    background-color: #9d4edd; /* Lighter purple on hover */
+}
+
+QPushButton:pressed {
+    background-color: #4b5563; /* Darker grey on press */
+}
+
+#footer {
+    background-color: #111827; /* Very dark background */
+    color: #9ca3af; /* Grey text */
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+    border-top: 1px solid #374151; /* Top border */
+}
+
