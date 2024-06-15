@@ -62,5 +62,5 @@ Here are some screenshots of theHarvester GUI in action:
 ### Main Interface
 ![Main Interface](screenshot1.jpg)
 
-### Command Execution
-![Command Execution](screenshot2.jpg)
+### How To Use Manual 
+![How To Manual](screenshot2.jpg)
