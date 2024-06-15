@@ -55,3 +55,12 @@ Click the "Run theHarvester" button to execute the command.
 
 View the results in the output area below.
 
+## Screenshots
+
+Here are some screenshots of theHarvester GUI in action:
+
+### Main Interface
+![Main Interface](screenshot1.jpg)
+
+### Command Execution
+![Command Execution](screenshot2.jpg)
