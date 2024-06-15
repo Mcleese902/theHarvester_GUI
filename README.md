@@ -25,7 +25,12 @@ theHarvester GUI is a user-friendly graphical interface for theHarvester, an ope
 
 
    git clone https://github.com/Mcleese902/theHarvester_GUI.git
+
    cd theHarvester_GUI
+
+   pip install -r requirements.txt
+   
+   python3 theharvester_gui.py
 
 Install the required Python packages:
 
